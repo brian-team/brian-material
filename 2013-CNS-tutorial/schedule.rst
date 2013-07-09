@@ -14,4 +14,4 @@ Break         -
 14.40 - 15.05 Brian 2 (Marcel Stimberg)
 15.10 - 15.35 How to contribute to Brian: Development, documentation, testing (Marcel Stimberg)
 15.40 - 16.30 Question/answer session, "bring your code", ask individual questions (Brian team)
-
+============= ==================================================================================
