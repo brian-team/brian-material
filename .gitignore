@@ -1,3 +1,4 @@
+*~
 *.acn
 *.acr
 *.alg
@@ -32,3 +33,4 @@
 *.tdo
 .project
 .pydevproject
+.ipynb_checkpoints
