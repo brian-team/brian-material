@@ -1,6 +1,6 @@
 # Brian tutorial at CNS 2014
 
-This folder contains all the material (slides and examples) for the Brian2 tutorial that was held at the OCNS meeting 2014 in Québec City. Note that the 
+This folder contains all the material (slides and examples) for the Brian2 tutorial that was held at the OCNS meeting 2014 in Québec City.
 Note that this tutorial was given using the most recent development version of Brian2 from [github master](https://github.com/brian-team/brian2), some examples might not work with the latest released alpha version.
 
 ## Topics
