@@ -1,4 +1,4 @@
-Teaching material based on the afternoon demonstration session at the Human Brain Project "Young Researchers Event" in Budapest, April 12th 2016.
+Teaching material based on the afternoon demonstration session at the [Human Brain Project "Young Researchers Event" in Budapest](https://education.humanbrainproject.eu/web/hbp-education-portal/young-researchers-budapest), April 12th 2016.
 
 For the full Brian 2 documentation, including two more extensive tutorials, see: https://brian2.readthedocs.org
 
