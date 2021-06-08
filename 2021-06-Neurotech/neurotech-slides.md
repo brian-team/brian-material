@@ -234,6 +234,10 @@ neurons = NeuronGroup(4, model="""
                                                   vt += vt_adapt''')
 ```
 
+<div class="attributions" style="text-align: left;">
+<a href="https://github.com/brian-team/brian-material/blob/master/2021-06-Neurotech/code/example_1.py">Full example code</a>
+</div>
+
 ---
 
 ## Example 2: synapse models
@@ -258,6 +262,10 @@ synapses_action = '''y += U_SE * x
 syn = Synapses(spike_source, target_neurons, model=synapses_eqs,
                on_pre=synapses_action)
 ```
+
+<div class="attributions" style="text-align: left;">
+<a href="https://github.com/brian-team/brian-material/blob/master/2021-06-Neurotech/code/example_2.py">Full example code</a>
+</div>
 
 ---
 
@@ -284,6 +292,10 @@ synapses.connect('neuron_type_pre == neuron_type_post',  # only if same type
 
 ![bg right:33%](images/example_3.png)
 
+<div class="attributions" style="text-align: left;">
+<a href="https://github.com/brian-team/brian-material/blob/master/2021-06-Neurotech/code/example_3.py">Full example code</a>
+</div>
+
 ---
 
 ## Example 4: stimulus protocols
@@ -305,6 +317,10 @@ neuron.run_regularly("""amplitude = rand() * 2*nA
 ```
 
 ![bg right:33%](images/example_4.png)
+
+<div class="attributions" style="text-align: left;">
+<a href="https://github.com/brian-team/brian-material/blob/master/2021-06-Neurotech/code/example_4.py">Full example code</a>
+</div>
 
 ---
 

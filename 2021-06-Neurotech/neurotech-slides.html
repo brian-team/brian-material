@@ -163,6 +163,9 @@ neurons = NeuronGroup(<span class="hljs-number">4</span>, model=<span class="hlj
                      threshold=<span class="hljs-string">&#x27;v &gt; vt&#x27;</span>, reset=<span class="hljs-string">&#x27;&#x27;&#x27;v = E_L
                                                   vt += vt_adapt&#x27;&#x27;&#x27;</span>)
 </span></span></foreignObject></svg></code></pre>
+<div class="attributions" style="text-align: left;">
+<a href="https://github.com/brian-team/brian-material/blob/master/2021-06-Neurotech/code/example_1.py">Full example code</a>
+</div>
 </section>
 </foreignObject><foreignObject width="1280" height="720" data-marpit-advanced-background="pseudo"><section style="" data-marpit-advanced-background="pseudo"></section></foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section data-theme="gaia" style="--theme:gaia;--marpit-advanced-background-split:33%;" data-marpit-advanced-background="background" data-marpit-advanced-background-split="right"><div data-marpit-advanced-background-container="true" data-marpit-advanced-background-direction="vertical"><figure style="background-image:url(&quot;images/example_2_equations.png&quot;);background-size:auto;"></figure><figure style="background-image:url(&quot;images/example_2.png&quot;);"></figure></div></section></foreignObject><foreignObject width="67%" height="720"><section id="10" data-theme="gaia" style="--theme:gaia;--marpit-advanced-background-split:33%;" data-marpit-advanced-background="content" data-marpit-advanced-background-split="right">
 <h2>Example 2: synapse models</h2>
@@ -181,6 +184,9 @@ synapses_action = <span class="hljs-string">&#x27;&#x27;&#x27;y += U_SE * x
 syn = Synapses(spike_source, target_neurons, model=synapses_eqs,
                on_pre=synapses_action)
 </span></span></foreignObject></svg></code></pre>
+<div class="attributions" style="text-align: left;">
+<a href="https://github.com/brian-team/brian-material/blob/master/2021-06-Neurotech/code/example_2.py">Full example code</a>
+</div>
 </section>
 </foreignObject><foreignObject width="1280" height="720" data-marpit-advanced-background="pseudo"><section style="" data-marpit-advanced-background="pseudo"></section></foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section data-theme="gaia" style="--theme:gaia;--marpit-advanced-background-split:33%;" data-marpit-advanced-background="background" data-marpit-advanced-background-split="right"><div data-marpit-advanced-background-container="true" data-marpit-advanced-background-direction="horizontal"><figure style="background-image:url(&quot;images/example_3.png&quot;);"></figure></div></section></foreignObject><foreignObject width="67%" height="720"><section id="11" data-theme="gaia" style="--theme:gaia;--marpit-advanced-background-split:33%;" data-marpit-advanced-background="content" data-marpit-advanced-background-split="right">
 <h2>Example 3: synaptic connections</h2>
@@ -201,6 +207,9 @@ synapses.connect(<span class="hljs-string">&#x27;neuron_type_pre == neuron_type_
                  p=<span class="hljs-string">&#x27;1.5*exp(-sqrt(((x_pre - x_post)**2 +&#x27;</span>
                    <span class="hljs-string">&#x27;               (y_pre - y_post)**2))/(100*um))&#x27;</span>)
 </span></span></foreignObject></svg></code></pre>
+<div class="attributions" style="text-align: left;">
+<a href="https://github.com/brian-team/brian-material/blob/master/2021-06-Neurotech/code/example_3.py">Full example code</a>
+</div>
 </section>
 </foreignObject><foreignObject width="1280" height="720" data-marpit-advanced-background="pseudo"><section style="" data-marpit-advanced-background="pseudo"></section></foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section data-theme="gaia" style="--theme:gaia;--marpit-advanced-background-split:33%;" data-marpit-advanced-background="background" data-marpit-advanced-background-split="right"><div data-marpit-advanced-background-container="true" data-marpit-advanced-background-direction="horizontal"><figure style="background-image:url(&quot;images/example_4.png&quot;);"></figure></div></section></foreignObject><foreignObject width="67%" height="720"><section id="12" data-theme="gaia" style="--theme:gaia;--marpit-advanced-background-split:33%;" data-marpit-advanced-background="content" data-marpit-advanced-background-split="right">
 <h2>Example 4: stimulus protocols</h2>
@@ -219,6 +228,9 @@ neuron.run_regularly(<span class="hljs-string">&quot;&quot;&quot;amplitude = ran
                         freq = 50*Hz + 100*Hz*rand()&quot;&quot;&quot;</span>,
                      dt=<span class="hljs-number">100</span>*ms)  <span class="hljs-comment"># change injected current every 100ms</span>
 </span></span></foreignObject></svg></code></pre>
+<div class="attributions" style="text-align: left;">
+<a href="https://github.com/brian-team/brian-material/blob/master/2021-06-Neurotech/code/example_4.py">Full example code</a>
+</div>
 </section>
 </foreignObject><foreignObject width="1280" height="720" data-marpit-advanced-background="pseudo"><section style="" data-marpit-advanced-background="pseudo"></section></foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="13" data-theme="gaia" style="--theme:gaia;">
 <h2>Where to learn more about Brian</h2>
