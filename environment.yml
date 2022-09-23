@@ -1,0 +1,10 @@
+name: brian-environment
+channels:
+  - conda-forge
+dependencies:
+  - brian2
+  - matplotlib
+  - pandas
+  - pip:
+    - brian2tools
+
