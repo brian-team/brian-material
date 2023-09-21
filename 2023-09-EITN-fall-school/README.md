@@ -8,3 +8,5 @@ Use this link to view the presentation:
 https://brian-team.github.io/brian-material/2023-09-EITN_fall_school/
 
 *Presentation built with [Marp](https://marp.app/).*
+
+Run the tutorial online: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brian-team/brian-material/HEAD?labpath=2023-09-EITN-fall-school%2Fexamples.ipynb)
