@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:ns1="http://sozi.baierouge.fr" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg3264" sodipodi:docname="book-grey.svg" viewBox="0 0 273.06 209.15" version="1.1" inkscape:version="0.48.1 r9760">
+  <sodipodi:namedview id="base" bordercolor="#666666" inkscape:pageshadow="2" inkscape:window-y="456" fit-margin-left="0" pagecolor="#ffffff" fit-margin-top="0" inkscape:window-maximized="0" inkscape:zoom="0.35" inkscape:window-x="0" inkscape:window-height="429" showgrid="false" borderopacity="1.0" inkscape:current-layer="layer1" inkscape:cx="117.25825" inkscape:cy="-38.134381" fit-margin-right="0" fit-margin-bottom="0" inkscape:window-width="525" inkscape:pageopacity="0.0" inkscape:document-units="px"/>
+  <g id="layer1" inkscape:label="Layer 1" inkscape:groupmode="layer" transform="translate(-257.74 -285.07)">
+    <g id="g4155" inkscape:export-ydpi="96" inkscape:export-xdpi="96" inkscape:export-filename="/home/cas/design/g4103.png" transform="translate(217.42 -308.04)">
+      <g id="g4107-2" inkscape:export-ydpi="96" inkscape:export-xdpi="96" inkscape:export-filename="/home/cas/design/g4103.png" transform="matrix(1.0835 0 0 1.1719 -241.34 -122.93)">
+        <path id="path4091-5" sodipodi:nodetypes="cccczccc" style="stroke:#bebebe;stroke-width:10.63;fill:#dcdcdc" inkscape:connector-curvature="0" d="m265.75 623.62h240.94v151.89h-102.09s-7.9569 8.3895-17.617 8.6375c-9.6602 0.24803-19.568-8.383-19.568-8.383l-102.12-0.96745z"/>
+      </g>
+      <g id="g4103-8" inkscape:export-ydpi="96" inkscape:export-xdpi="96" transform="translate(-206.18 -6.6133)">
+        <path id="path4093-0" sodipodi:nodetypes="ccccccc" style="stroke:#a0a0a0;stroke-width:5.3558;fill:#ffffff" inkscape:connector-curvature="0" d="m265.75 616.54c42.52 0 85.039-31.89 116.93 0 31.89-31.89 74.409 0 116.93 0v159.45c-42.52 0-85.039-31.89-116.93 0-31.89-31.89-74.409 0-116.93 0z"/>
+        <path id="path4095-1" style="stroke:#a0a0a0;stroke-width:5.2573;fill:none" inkscape:connector-curvature="0" d="m382.68 616.54v157.64"/>
+      </g>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Open book (grayscale)</dc:title>
+        <dc:date>2011-09-07T16:46:35</dc:date>
+        <dc:description>Open book icon (grayscale)</dc:description>
+        <dc:source>https://openclipart.org/detail/159463/open-book-grayscale-by-sibskull</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>sibskull</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>book</rdf:li>
+            <rdf:li>documentation</rdf:li>
+            <rdf:li>grayscale</rdf:li>
+            <rdf:li>icon</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
